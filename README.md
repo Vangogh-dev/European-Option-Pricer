@@ -24,7 +24,7 @@ In this Jupyter Notebook, you will find:
 - **Sensitivity Analysis:**  
   Analyze how the option price varies with volatility.
 
-##Future upgrades
+## Future upgrades
 
 - **Extended Sensitivity Analysis:**
 Explore additional sensitivities such as vanna, vomma, and second-order Greeks.
