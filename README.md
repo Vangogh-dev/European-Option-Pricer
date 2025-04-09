@@ -23,3 +23,14 @@ In this Jupyter Notebook, you will find:
 
 - **Sensitivity Analysis:**  
   Analyze how the option price varies with volatility.
+
+##Future upgrades
+
+- **Extended Sensitivity Analysis:**
+Explore additional sensitivities such as vanna, vomma, and second-order Greeks.
+
+- **Interest Rate Dynamics:**
+Integrate models that account for stochastic interest rates.
+
+- **Portfolio Simulations:**
+Simulate a portfolio of options or structured products to study diversification and risk management.
